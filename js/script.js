@@ -15,6 +15,6 @@ function calculatevolume() {
     const spherevolume = 4/3 * Math.PI * (radius * radius * radius);
 
   // output
-  document.getElementById('volume').innerHTML = 'The Volume is:' + spherevoulume + 'mm³'
+  document.getElementById('volume').innerHTML = 'The Volume is:' + spherevolume + 'mm³'
 }
 
